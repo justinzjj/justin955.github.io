@@ -2,3 +2,7 @@
 	path = themes/blowfish
 	url = https://github.com/nunocoracao/blowfish.git
 	branch = main
+[submodule "justin955-blog/themes/blowfish"]
+	path = justin955-blog/themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
