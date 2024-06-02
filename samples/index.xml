@@ -6,7 +6,7 @@
     <description>Recent content in 示例 on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>© 2024 Blowfish</copyright>
+    <copyright>© 2024 Justin</copyright>
     <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/samples/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>多作者</title>
@@ -115,6 +115,26 @@
       
       <guid>https://localhost:1313/samples/external/</guid>
       <description>&lt;code&gt;externalUrl&lt;/code&gt; front matter 参数可以链接到任何外部 URL.</description>
+      
+    </item>
+    
+    <item>
+      <title>Campioni</title>
+      <link>https://localhost:1313/samples/_index.it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/samples/_index.it/</guid>
+      <description>Blowfish dà vita ai tuoi contenuti. &amp;#x1f60d; Questa sezione contiene alcune pagine demo che mostrano come Blowfish esegue il rendering di diversi tipi di contenuto. Puoi anche vedere una pagina di esempio elenco tassonomia.</description>
+      
+    </item>
+    
+    <item>
+      <title>サンプル</title>
+      <link>https://localhost:1313/samples/_index.ja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/samples/_index.ja/</guid>
+      <description>Blowfish はあなたのコンテンツに命を宿します。&amp;#x1f60d; この</description>
       
     </item>
     

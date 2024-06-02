@@ -8,16 +8,6 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="it"
-      href="https://localhost:1313/it/authors/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/authors/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="zh-cn"
       href="https://localhost:1313/authors/"
     />
@@ -31,16 +21,6 @@
     <loc>https://localhost:1313/en/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://localhost:1313/it/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/"
-    />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
@@ -58,16 +38,6 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="it"
-      href="https://localhost:1313/it/categories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/categories/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="zh-cn"
       href="https://localhost:1313/categories/"
     />
@@ -83,16 +53,6 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="it"
-      href="https://localhost:1313/it/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/series/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="zh-cn"
       href="https://localhost:1313/series/"
     />
@@ -106,16 +66,6 @@
     <loc>https://localhost:1313/en/tags/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://localhost:1313/it/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/"
-    />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
